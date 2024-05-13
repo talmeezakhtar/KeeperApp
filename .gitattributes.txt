@@ -1,0 +1,5 @@
+* text=auto
+
+*.tf  eol=lf
+*.tfvars  eol=lf
+*.yml  eol=lf
